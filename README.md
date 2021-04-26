@@ -1,3 +1,4 @@
+##This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
 
 ## Note: This repository is inherited from the old Tuya Github repository: xxxxxx, which will be deprecated soon. Please use this repository for Tuya SDK development instead. For changing the existing remote repository URL, please check this tutorial: https://github.com/TuyaInc/tuya-weapp-demo
 ## An overview of the
@@ -56,6 +57,9 @@ If no device is shown in the device list, you can click "Add Device", select "Sc
 ├── project.config.json        // Project profile
 └── README.md            // Description file
 ```
+![01](https://user-images.githubusercontent.com/28890538/116061382-5dec7100-a6b5-11eb-966f-e65a9d439889.png)
+![02](https://user-images.githubusercontent.com/28890538/116061402-617ff800-a6b5-11eb-9873-8c62acfd70e9.png)
+
 
 ## Demo Description
 
